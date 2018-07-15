@@ -1988,34 +1988,23 @@ body {
     text-align: center;
   }
 }
-#custom-html-s {
-  /* Type valid CSS here */
-}
-#custom-html-s .my-image {
-  width: 100%;
-}
-.cid-qXTOPQFxdn {
+.cid-qXUuxUkO4t {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/rawpixel-191102-unsplash-2-2000x1306.jpg");
 }
-.cid-qXTOPQFxdn .form-container {
+.cid-qXUuxUkO4t .form-container {
   transition: all .2s;
   border: 1px solid #ffffff;
   padding: 1rem;
 }
-.cid-qXTOPQFxdn .input-group-btn {
+.cid-qXUuxUkO4t .input-group-btn {
   justify-content: center;
 }
 @media (min-width: 768px) {
-  .cid-qXTOPQFxdn .content-container {
+  .cid-qXUuxUkO4t .content-container {
     padding-right: 5rem;
   }
-}
-.cid-qXTOPQFxdn H1 {
-  color: #ffffff;
-}
-.cid-qXTOPQFxdn .mbr-text,
-.cid-qXTOPQFxdn .mbr-section-btn {
-  color: #ffffff;
 }
 .cid-qXU7k4ZUVi {
   padding-top: 60px;
